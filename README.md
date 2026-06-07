@@ -2,8 +2,8 @@
 
 # Vyom Soni
 
-BSc Computer Science & Data Analytics Student  
-Focused on Machine Learning, Data Engineering, and MLOps Systems
+BS Computer Science & Data Analytics Student  
+Focused on Machine Learning ,Deep Leanring and MLOps Systems that Works in Real-World
 
 ---
 
@@ -24,13 +24,13 @@ I am a Computer Science and Data Analytics student with a focus on building mach
 ## Technical Skills (In Progress)
 - Python (Data Structures, OOP, Data Science libraries, Algorithms)
 - PostgreSQL (Querying, Joins, Aggregations,etc..)
-- Scikit-learn,XGBoost (Model development)
+- Scikit-learn,XGBoost,Tensorflow (Model development)
 - Git & GitHub (Version control)
 - Github Action (CI-CD Pipeline)
-- Apache Airflow (Orchestration)
+- Apache Airflow (Pipeline Orchestration)
 - DVC (Data Versioning)
 - Mlflow ( Experimentation Tracking )
-- FastAPI (API development)
+- FastAPI and Authentication (JWT)  (API development)
 - Docker (Containerization)
 - AWS (Cloud)
 - Terraform (Infra as code)
